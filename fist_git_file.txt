@@ -1,3 +1,4 @@
 fist using git,excited
-第一次用git
+一次用git
 
+做了一些修改，嗯，记得保存
